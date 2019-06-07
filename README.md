@@ -13,3 +13,5 @@ All these implemention takes input.txt as an input.
 <br/>for each move get -1 reward
 <br/>when u reach destination we get 100 reward
 <br/>when u enter an obstacles we get -100 reward
+<br/>
+The main goal in reinforecement learning is to find a path which maximizes rewards earned.
